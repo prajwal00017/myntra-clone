@@ -18,7 +18,7 @@ Navigate to the directory where you want to store the Myntra Clone project.
 --Clone the repository by running the following command:
 bash
 Copy code
-[git clone https://github.com/Prathamesh2412/myntra-clone.git](https://github.com/prajwal00017/myntra-clone-frontend.git)
+[git clone https://github.com/prajwal00017/myntra-clone-frontend.git](https://github.com/prajwal00017/myntra-clone-frontend.git)
 Replace your-username with your GitHub username or the appropriate repository URL if you've forked the project.
 
 -- Running the Clone
